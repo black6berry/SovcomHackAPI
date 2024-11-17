@@ -27,6 +27,6 @@ git clone https://github.com/black6berry/SovcomHackAPI.git
 ```
 
 # Screens 
-<p align="center"><img src="SovkomHackApi/Resources/img/api-points.png"/></p>
-<p align="center"><img src="SovkomHackApi/Resources/img/api-verifications.png"/></p>
+<p align="center"><img src="SovkomHackAPI/Resources/img/api-points.png"/></p>
+<p align="center"><img src="SovkomHackAPI/Resources/img/api-verifications.png"/></p>
 
